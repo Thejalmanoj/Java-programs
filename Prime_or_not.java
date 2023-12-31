@@ -1,5 +1,4 @@
 //(1)USING CONDITIONAL STATEMENTS//
-
 import java.util.Scanner;
 public class Main
 {
