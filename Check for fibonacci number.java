@@ -1,3 +1,5 @@
+//QUE: Check if a number is in fibonacci series or not//
+
 import java.util.*;
 public class Main
 {
